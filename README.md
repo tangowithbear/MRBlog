@@ -22,4 +22,4 @@ Figure 3: Application install
 <img width="1131" height="650" alt="Screenshot 2025-11-25 at 11 23 51" src="https://github.com/user-attachments/assets/68b1d505-b6fa-4b78-bdde-5d8358828aba" />
 
 
-Figure 4: Infamous "next-next-next" phase
+Figure 4: Unity has installed
