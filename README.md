@@ -10,7 +10,7 @@ Figure 1: Downloading via Safari
 <img width="1238" height="800" alt="Screenshot 2025-11-25 at 11 22 32" src="https://github.com/user-attachments/assets/26957528-7c14-4db4-8718-ce3886ffaeab" />
 
 
-Figure 2: Download phase start
+Figure 2: The infamous "next-next-next" phase
 
 
 <img width="567" height="400" alt="Screenshot 2025-11-25 at 11 23 12" src="https://github.com/user-attachments/assets/cb49e370-9572-4008-b8d2-a4a3428e929d" />
