@@ -7,7 +7,9 @@ Hello this is our blog for the Mixed Reality course :)
 
 Figure 1: Downloading via Safari
 
+
 <img width="1238" height="800" alt="Screenshot 2025-11-25 at 11 22 32" src="https://github.com/user-attachments/assets/26957528-7c14-4db4-8718-ce3886ffaeab" />
+
 
 
 Figure 2: The infamous "next-next-next" phase
