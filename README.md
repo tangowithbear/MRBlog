@@ -3,6 +3,10 @@ MixedRealityBlog
 
 Hello this is our blog for the Mixed Reality course :)
 
+
+
+# ::::::::::::::::::::::::  LAB 2 UNITY INSTALLATION  ::::::::::::::::::::::::
+
 <img width="800" height="600" alt="Screenshot 2025-11-25 at 11 21 08" src="https://github.com/user-attachments/assets/ee0e0ee5-105f-4fa4-a361-d130247975af" />
 
 Figure 1: Downloading via Safari
@@ -25,3 +29,7 @@ Figure 3: Application install
 
 
 Figure 4: Unity has installed
+
+
+
+# ::::::::::::::::::::::::::::::::::   LAB 3 ROLL A BALL   :::::::::::::::::::::::::::::::
