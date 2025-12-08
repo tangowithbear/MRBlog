@@ -7,12 +7,12 @@ Hello this is our blog for the Mixed Reality course :)
 
 # ::::::::::::::::::::::::  LAB 2 UNITY INSTALLATION  ::::::::::::::::::::::::
 
-<img width="800" height="600" alt="Screenshot 2025-11-25 at 11 21 08" src="https://github.com/user-attachments/assets/ee0e0ee5-105f-4fa4-a361-d130247975af" />
+<img width="800" height="500" alt="Screenshot 2025-11-25 at 11 21 08" src="https://github.com/user-attachments/assets/ee0e0ee5-105f-4fa4-a361-d130247975af" />
 
 Figure 2.1: Downloading via Safari
 
 
-<img width="800" height="600" alt="Screenshot 2025-11-25 at 11 22 32" src="https://github.com/user-attachments/assets/26957528-7c14-4db4-8718-ce3886ffaeab" />
+<img width="800" height="500" alt="Screenshot 2025-11-25 at 11 22 32" src="https://github.com/user-attachments/assets/26957528-7c14-4db4-8718-ce3886ffaeab" />
 
 
 
@@ -25,7 +25,7 @@ Figure 2.2: The infamous "next-next-next" phase
 Figure 2.3: Application install
 
 
-<img width="800" height="600" alt="Screenshot 2025-11-25 at 11 23 51" src="https://github.com/user-attachments/assets/68b1d505-b6fa-4b78-bdde-5d8358828aba" />
+<img width="800" height="430" alt="Screenshot 2025-11-25 at 11 23 51" src="https://github.com/user-attachments/assets/68b1d505-b6fa-4b78-bdde-5d8358828aba" />
 
 
 Figure 2.4: Unity has installed
@@ -38,7 +38,7 @@ Figure 2.4: Unity has installed
 
 STEP 1: SETTING UP THE GAME
 
-<img width="800" height="600" alt="02" src="https://github.com/user-attachments/assets/bbfacea9-42e7-49b5-9b1d-659cb5f7612c" />
+<img width="800" height="430" alt="02" src="https://github.com/user-attachments/assets/bbfacea9-42e7-49b5-9b1d-659cb5f7612c" />
 
 Figure 3.1.1: Creating a new Unity project 
 
@@ -50,7 +50,7 @@ Figure 3.1.2: Using Universal Render Pipeline (URP) 3D template
 
 <br/>
 
-<img width="800" height="600" alt="04" src="https://github.com/user-attachments/assets/7290cd19-04e8-48e8-a2e8-7d77d0e22262" />
+<img width="800" height="430" alt="04" src="https://github.com/user-attachments/assets/7290cd19-04e8-48e8-a2e8-7d77d0e22262" />
 
 Figure 3.1.3: Unity Editor view of the created project
 
