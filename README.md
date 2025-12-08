@@ -90,5 +90,57 @@ Figure 3.1.8: Adjusting the default lighting
 
 Figure 3.1.9: Adding colors with materials
 
+<br/>
+
+STEP 2: MOVING A PLAYER
+
+<img width="800" height="430" alt="3 2 2" src="https://github.com/user-attachments/assets/1257ae69-4d76-4130-9db1-34847dfb7f94" />
+
+Figure 3.2.2: Adding a Rigidbody to the player
+
+<br/>
+
+<img width="800" height="430" alt="3 2 3" src="https://github.com/user-attachments/assets/08aef40b-516c-45fc-b78a-0f8549b9ce1d" />
+
+Figure 3.2.3: Adding a Player Input component
+
+<br/>
+
+<img width="800" height="430" alt="3 2 4" src="https://github.com/user-attachments/assets/ef23e88a-2c4e-4df2-ad36-10319bb3e93d" />
+
+Figure 3.2.4: Creating a new script
+
+<br/>
+
+<img width="800" height="430" alt="3 2 5" src="https://github.com/user-attachments/assets/8cabe794-0603-4049-bb0f-4f4c20e2b4ff" />
+
+Figure 3.2.5: Writing the OnMove function declaration
+
+<br/> 
+
+<img width="800" height="430" alt="3 2 6" src="https://github.com/user-attachments/assets/110ee17b-d99e-4d62-9159-14a47db9c028" />
+
+Figure 3.2.6: Applying input data to the Player
+
+<br/> 
+
+<img src="https://github.com/user-attachments/assets/1d3e916e-6a29-4323-bd18-46ea70c9752a"
+     alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.2.7: Applying Force to the Player
+
+<br/> 
+
+Figure 3.2.8: Fixing the Player movement speed
+
+<br/> 
+
+Figure 3.2.9: Final Script sample
+
+<br/> 
+
+
 
 
