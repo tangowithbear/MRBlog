@@ -133,9 +133,14 @@ Figure 3.2.7: Applying Force to the Player
 
 <br/> 
 
+<img width="800" height="430" alt="3 2 8" src="https://github.com/user-attachments/assets/459b5492-3c2c-481e-990e-05210780ea10" />
+
 Figure 3.2.8: Fixing the Player movement speed
 
 <br/> 
+
+<img width="800" height="430" alt="3 2 9" src="https://github.com/user-attachments/assets/9745cd9b-716c-462d-bcb2-d1853b20786f" />
+
 
 Figure 3.2.9: Final Script sample
 
