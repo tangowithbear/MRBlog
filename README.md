@@ -165,8 +165,25 @@ Figure 3.3.4: Referencing the Player GameObject
 
 <img width="800" height="430" alt="3 3 5" src="https://github.com/user-attachments/assets/ea6f1e57-aa7d-4b3f-82eb-55dbb7d4365f" />
 
-
 Figure 3.3.5: Commented Final Script
+
+<br/> 
+
+STEP 4: SETTING UP THE PLAY AREA
+
+<img width="800" height="430" alt="3 4 2" src="https://github.com/user-attachments/assets/e83910f3-4d9c-420b-b6e1-3ee27493cee7" />
+
+Figure 3.4.2: Creating a wall for the play field
+
+<br/> 
+
+<img src= "https://github.com/user-attachments/assets/eea3b943-4b0e-496b-8e68-98ff046a7149" 
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+
+Figure 3.4.3: Finishing the play field walls
 
 <br/> 
 
