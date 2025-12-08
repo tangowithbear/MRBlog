@@ -187,3 +187,43 @@ Figure 3.4.3: Finishing the play field walls
 
 <br/> 
 
+STEP 5: CREATING COLLECTIBLES
+
+<img width="800" height="430" alt="3 5 2" src="https://github.com/user-attachments/assets/b6cfb979-0256-4ddd-94b3-d03036f78db5" />
+
+Figure 3.5.2: Creating a collectible GameObject
+
+<br/> 
+
+<img src="https://github.com/user-attachments/assets/58988a2e-d900-4cc1-b9ca-0ed666581dcb"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.5.3: Rotating the PickUp GameObject
+
+<br/> 
+
+<img width="800" height="430" alt="3 5 4" src="https://github.com/user-attachments/assets/4779a582-5bc6-43e7-bd8e-41a2787cc67d" />
+
+Figure 3.5.4: Making PickUp a Prefab
+
+<br/> 
+
+<img src= "https://github.com/user-attachments/assets/9b2b1a4c-ba53-4485-8756-55f74f0f7f08"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+
+Figure 3.5.5: Adding more collections
+
+<br/> 
+
+<img width="800" height="430" alt="3 5 6" src="https://github.com/user-attachments/assets/ed77034e-883f-49fb-8fc0-2c91895c4892" />
+
+Figure 3.5.6: Final Script
+
+<br/> 
+
+
