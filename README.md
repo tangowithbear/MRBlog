@@ -146,6 +146,27 @@ Figure 3.2.9: Final Script sample
 
 <br/> 
 
+STEP 3: MOVING THE CAMERA
+
+<img width="800" height="430" alt="3 3 3" src="https://github.com/user-attachments/assets/d70acac8-d2ce-48de-8bbe-3b52907860a0" />
+
+Figure 3.3.3: CameraController Script
+
+<br/> 
+
+<img src= "https://github.com/user-attachments/assets/71b4a429-dbe6-474f-96bc-96bf38323d9b"  
+     alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.3.4: Referencing the Player GameObject
+
+<br/> 
+
+<img width="800" height="430" alt="3 3 5" src="https://github.com/user-attachments/assets/ea6f1e57-aa7d-4b3f-82eb-55dbb7d4365f" />
 
 
+Figure 3.3.5: Commented Final Script
+
+<br/> 
 
