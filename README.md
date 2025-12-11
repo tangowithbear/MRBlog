@@ -236,7 +236,7 @@ Figure 3.6.2: Disabling PickUps with OnTriggerEnter
 
 <img width="800" height="430" alt="3 6 3" src="https://github.com/user-attachments/assets/470bad59-4c4a-4266-ae5a-650b6e42af77" />
 
-Figure 3.6.3: AddING a tag to the PickUp Prefab
+Figure 3.6.3: Adding a tag to the PickUp Prefab
 
 <br/>
 
@@ -245,7 +245,7 @@ Figure 3.6.3: AddING a tag to the PickUp Prefab
      width="800"
      height="430" />
 
-Figure 3.6.4: WritING a conditional statement
+Figure 3.6.4: Writing a conditional statement
 
 <br/>
 
