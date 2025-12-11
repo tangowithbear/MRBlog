@@ -244,7 +244,7 @@ Figure 3.6.3: Adding a tag to the PickUp Prefab
  alt="3 2 7gif"
      width="800"
      height="430" />
-
+     
 Figure 3.6.4: Writing a conditional statement
 
 <br/>
@@ -254,23 +254,49 @@ Figure 3.6.4: Writing a conditional statement
      width="800"
      height="430" />
 
+
 Figure 3.6.5: Set the Pickup Colliders as triggers
 
 <br/>
 
 <img width="800" height="430" alt="3 6 6" src="https://github.com/user-attachments/assets/37cde26b-fd2d-47b0-9d96-2add9e7c69b2" />
 
-Figure 3.6.6: Adding a Rigidbody component to the PickUp Prefab and meking it kinematic <br>
+Figure 3.6.6: Adding a Rigidbody component to the PickUp Prefab and meking it kinematic
+ <br>
+ <br>
 Static colliders shouldn't move like walls and floors. <br>
 Dynamic colliders can move and have a Rigidbody attached. <br>
-Standard Rigidbodies are moved using physics' forces. <br>
+Standard Rigidbodies are moved using physics forces. <br>
 Kinematic Rigidbodies are moved using their transform. <br>
 
-<br/>
+<br>
 
 <img width="800" height="430" alt="3 6 7" src="https://github.com/user-attachments/assets/6fdd559d-c76d-496a-98cc-d53c2c4f912c" />
 
 Figure 3.6.7: Final Script
 
 <br/>
+
+STEP 7: DISPLAYING SCORE AND TEXT
+
+Figure 3.7.2: Storing the value of collected PickUps
+
+<br/>
+
+Figure 3.7.3: Creating a UI text element
+
+<br/>
+
+Figure 3.7.4: Displaying the count value
+
+<br/>
+
+Figure 3.7.5: Creating a UI text element
+
+<br/>
+
+Figure 3.7.6: Final script
+
+<br/>
+
 
