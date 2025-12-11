@@ -226,4 +226,51 @@ Figure 3.5.6: Final Script
 
 <br/> 
 
+STEP 6: DETECTING COLLISIONS WITH COLLECTIBLES
+
+<img width="800" height="430" alt="3 6 2" src="https://github.com/user-attachments/assets/30dd0d72-3283-4f83-b81e-6fc2ba5c0ace" />
+
+Figure 3.6.2: Disabling PickUps with OnTriggerEnter
+
+<br/>
+
+<img width="800" height="430" alt="3 6 3" src="https://github.com/user-attachments/assets/470bad59-4c4a-4266-ae5a-650b6e42af77" />
+
+Figure 3.6.3: AddING a tag to the PickUp Prefab
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/106355f3-6fba-48a7-ad93-f4e630851dc6"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.6.4: WritING a conditional statement
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/f4a037c0-6a62-4672-8bac-d3c240d30341"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.6.5: Set the Pickup Colliders as triggers
+
+<br/>
+
+<img width="800" height="430" alt="3 6 6" src="https://github.com/user-attachments/assets/37cde26b-fd2d-47b0-9d96-2add9e7c69b2" />
+
+Figure 3.6.6: Adding a Rigidbody component to the PickUp Prefab and meking it kinematic <br>
+Static colliders shouldn't move like walls and floors. <br>
+Dynamic colliders can move and have a Rigidbody attached. <br>
+Standard Rigidbodies are moved using physics' forces. <br>
+Kinematic Rigidbodies are moved using their transform. <br>
+
+<br/>
+
+<img width="800" height="430" alt="3 6 7" src="https://github.com/user-attachments/assets/6fdd559d-c76d-496a-98cc-d53c2c4f912c" />
+
+Figure 3.6.7: Final Script
+
+<br/>
 
