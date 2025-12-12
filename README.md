@@ -279,21 +279,37 @@ Figure 3.6.7: Final Script
 
 STEP 7: DISPLAYING SCORE AND TEXT
 
+<img width="800" height="430" alt="3 7 2" src="https://github.com/user-attachments/assets/e2c8802f-e5e8-4057-9a19-f94aea645c6f" />
+
 Figure 3.7.2: Storing the value of collected PickUps
 
 <br/>
+
+<img width="800" height="430" alt="3 7 3" src="https://github.com/user-attachments/assets/18c5696e-592d-42e1-bd62-a9a15683ce73" />
 
 Figure 3.7.3: Creating a UI text element
 
 <br/>
 
+<img src= "https://github.com/user-attachments/assets/6ae50967-d30d-46ce-b843-710652f71d67"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
 Figure 3.7.4: Displaying the count value
 
 <br/>
 
+<img src= "https://github.com/user-attachments/assets/7970347e-11e8-49c7-bc9c-00bb8da88ad8"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
 Figure 3.7.5: Creating a UI text element
 
 <br/>
+
+<img width="800" height="430" alt="3 7 6" src="https://github.com/user-attachments/assets/f988c92f-0b58-4fdd-8e7a-bd9e36cac6f5" />
 
 Figure 3.7.6: Final script
 
