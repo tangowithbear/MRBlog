@@ -385,6 +385,59 @@ Figure 3.9.2: Build for Windows
 
 STEP 10: EXTRA FEATURE: RESTART OPTION
 
+<br/> 1. Created empty GameObject => RestartManager, created gameEnded flag
+<br/> 2. Created RestartManager.cs script and attached it to RestartManger object
+<br/> 3. Selected the Player and drugged RestartManager object into restartManager field
+<br/> 4. Modified the Enemy, tagged the Player tag to the Player object
+<br/> 5. Modified win and lose text by adding "Press R to restart"
+
+<br/>
+
+<img width="800" height="430" alt="3 10 0" src="https://github.com/user-attachments/assets/04294862-1adc-4767-8ddf-8a264cbe15f8" />
+
+Figure 3.10.1: Added GameEnded flag
+
+<br/>
+
+<img width="800" height="430" alt="3 10 1" src="https://github.com/user-attachments/assets/68cb712a-34d2-4dd9-9bcb-3da38989fa0e" />
+
+Figure 3.10.2: Restart Manager script
+
+When the game ends (win or lose), a global RestartManager sets a gameEnded flag. 
+<br/> While this flag is true, the manager listens for the R key and reloads the current scene, 
+<br/> fully resetting the level (player, enemy, pickups).
+<br/> This logic is kept outside the Player so it still works even if the Player is destroyed.
+
+<br/>
+
+<img width="800" height="430" alt="3 10 2" src="https://github.com/user-attachments/assets/8a1e6bb4-45e8-42c6-9b70-d9fe037a1276" />
+
+Figure 3.10.3: Enemy movement script
+
+The enemy originally relied on a fixed reference to the Player. 
+<br/> When the Player was destroyed (on lose) or not assigned, the enemy stopped moving.
+<br/> The script was modified to safely handle the Player reference and the game state.
+<br/>
+<br/> The enemy now checks if the Player exists before moving.
+<br/> If the Player is missing, the enemy waits or re-finds the Player instead of breaking.
+<br/> Movement is only applied when the NavMeshAgent is valid and on the NavMesh.
+
+
+
+<br/>
+
+<img src= "https://github.com/user-attachments/assets/f0fa9f9c-9e2c-4e0c-be3b-163bcc245940"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.10.4: Restart demo
+
+<br/>
+
+
+
+
 
 
 
