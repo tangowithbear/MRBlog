@@ -440,7 +440,7 @@ Figure 3.10.4: Restart demo
 <div style="position:relative;padding-top:56.25%;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vT43i_otFYE3wyMAsoZYFqYUv_YvU4wDNmdpfwElkzkPIlhVLurxAyGZwcqkAYoiw9Sx5JqE3_ezAsg/pubembed?start=false&loop=false&delayms=3000"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    style="position:absolute;top:0;left:0;width:90%;height:90%;"
     frameborder="0"
     allowfullscreen></iframe>
 </div>
