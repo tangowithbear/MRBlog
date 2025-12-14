@@ -372,6 +372,16 @@ Side note: Bug message after loosing
 
 Figure 3.8.7.2: Setting the win condition
 
+<br/>
+
+STEP 9: BUILDING THE GAME
+
+<img width="800" height="430" alt="3 9 2" src="https://github.com/user-attachments/assets/a1abf96a-ea53-4b8e-9578-2d8cbef51d05" />
+
+
+Figure 3.9.2: Build for Windows
+
+<br/>
 
 
 
