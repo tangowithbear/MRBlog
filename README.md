@@ -315,4 +315,65 @@ Figure 3.7.6: Final script
 
 <br/>
 
+STEP 8: ADDING AI NAVIGATION
+
+<img width="800" height="430" alt="3 8 2" src="https://github.com/user-attachments/assets/efcd02e7-d0b1-42f5-869f-c5517a3c07d5" />
+
+Figure 3.8.2: Creating an enemy
+
+<br/>
+
+<img width="800" height="430" alt="3 8 3" src="https://github.com/user-attachments/assets/e5fd867a-d637-41e8-83ca-120b3ff684ad" />
+
+Figure 3.8.3: Baking a NavMesh
+
+<br/>
+
+<img src= "https://github.com/user-attachments/assets/019b4381-de08-4e5a-a616-e38c9bed8889"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.8.4: Making the enemy chaise the player
+
+<br/>
+
+<img width="800" height="430" alt="3 8 5" src="https://github.com/user-attachments/assets/7c63bce7-af59-4b3d-b2c3-778dd97f8995" />
+
+Figure 3.8.5: Creating static obstacles
+
+<br/>
+
+<img src= "https://github.com/user-attachments/assets/13ac9441-8a19-48b9-92e8-d341271343e3"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.8.6: Creating dynamic obstacles
+
+<br/>
+
+<img src= "https://github.com/user-attachments/assets/189eaa4b-a7f2-4f03-a660-24f8aac01d9f"
+ alt="3 2 7gif"
+     width="800"
+     height="430" />
+
+Figure 3.8.7.1: Setting the lose condition
+
+<br/>
+
+<img width="800" height="51" alt="bug" src="https://github.com/user-attachments/assets/2df95d04-d5b3-42aa-8839-2fbbcc664ae8" />
+
+Side note: Bug message after loosing
+
+<br/>
+
+<img width="800" height="430" alt="3 8 7 2" src="https://github.com/user-attachments/assets/d11b96e5-0481-4fb4-87b1-559b0bb46a5d" />
+
+Figure 3.8.7.2: Setting the win condition
+
+
+
+
+
 
