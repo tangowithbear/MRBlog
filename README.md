@@ -47,6 +47,10 @@ AR, XR, AR, VR
 THIS
 <br/> 
 
+# ::::::::::::::::::  WEEK 2  VR TECHNOLOGY AND PERCEPTION  ::::::::::::::::::::::
+25/11/2025
+<br/> 
+
 # ::::::::::::::::::::::::  LAB 2 UNITY INSTALLATION  ::::::::::::::::::::::::
 
 <img width="800" height="500" alt="Screenshot 2025-11-25 at 11 21 08" src="https://github.com/user-attachments/assets/ee0e0ee5-105f-4fa4-a361-d130247975af" />
