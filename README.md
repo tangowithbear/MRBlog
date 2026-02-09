@@ -40,7 +40,7 @@ AR, XR, AR, VR
 <br/> 2012 ________________Palmer Luckey: Oculus Rift, John Carmack joined as CTO and shaped technical direction
 
 
-<br/>  VR is next step : PC → mobile → ubiquitous/immersive
+<br/>  VR is next step : PC => mobile => ubiquitous/immersive
 <br/>  Stron focus on UX
 <br/> 
 # ::::::::::::::::::::::::::::::   LAB 1 BLOG SETUP  :::::::::::::::::::::::::::::::::::
