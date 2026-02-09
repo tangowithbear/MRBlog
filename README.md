@@ -25,27 +25,21 @@ AR, XR, AR, VR
 <br/> 
 <br/> Intuitive: using or based on what one feels to be true even withoutconscious reasoning; instinctive.
 <br/> 
-<br/> 1945                 Vannevar Bush: MEMEX (hypertext-like ideas). 
-<br/> 1963 / 1968          Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
-<br/> 1963 / 1965 / 1968   Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
-<br/> 1972                 Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
-<br/> 1983                 Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
-<br/> 1986 / 1988          Don Norman: User-Centered Design framing; Design of Everyday Things.
-<br/> 1988                 Mark Weiser: Ubiquitous Computing.
-<br/> 1997                 Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”). 
+<br/> 1945_________________Vannevar Bush: MEMEX (hypertext-like ideas). 
+<br/> 1963 / 1968__________Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
+<br/> 1963 / 1965 / 1968___Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
+<br/> 1972_________________Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
+<br/> 1983_________________Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
+<br/> 1986 / 1988__________Don Norman: User-Centered Design framing; Design of Everyday Things.
+<br/> 1988_________________Mark Weiser: Ubiquitous Computing.
+<br/> 199._________________Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”).
+<br/> 1962_________________Morton Heilig: Sensorama (multi-sensory theater: stereo visuals, sound, wind, vibration, smell)
+<br/> 1984_________________Jaron Lanier: VPL Research (headsets/gloves) credited with coining term Virtual Reality
+<br/> 1992_________________Carolina Cruz-Neira: CAVE
+<br/> 2012_________________Palmer Luckey: Oculus Rift, John Carmack joined as CTO and shaped technical direction
 
-1945        Vannevar Bush
-1963/1968   Ivan Sutherland
-1968        Douglas Engelbart
-1972        Alan Kay
-1983        Stuart Card
-1986/1988   Don Norman
-1988        Mark Weiser
-1997        Hiroshi Ishii
-1962        Morton Heilig
-1984        Jaron Lanier
-1992        Carolina Cruz-Neira
-2012        Palmer Luckey
+<br/>  VR is next step : PC → mobile → ubiquitous/immersive
+<br/>  Stron focus on UX
 
 # ::::::::::::::::::::::::  LAB 2 UNITY INSTALLATION  ::::::::::::::::::::::::
 
