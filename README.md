@@ -25,14 +25,14 @@ AR, XR, AR, VR
 <br/> 
 <br/> Intuitive: using or based on what one feels to be true even withoutconscious reasoning; instinctive.
 <br/> 
-<br/> 1945  <Tabs> Vannevar Bush: MEMEX (hypertext-like ideas). 
-<br/> 1963 / 1968 Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
-<br/> 1963 / 1965 / 1968  Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
-<br/> 1972  Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
-<br/> 1983  Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
-<br/> 1986 / 1988  Don Norman: User-Centered Design framing; Design of Everyday Things.
-<br/> 1988 Mark Weiser: Ubiquitous Computing.
-<br/> 1997  Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”). 
+<br/> 1945                 Vannevar Bush: MEMEX (hypertext-like ideas). 
+<br/> 1963 / 1968          Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
+<br/> 1963 / 1965 / 1968   Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
+<br/> 1972                 Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
+<br/> 1983                 Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
+<br/> 1986 / 1988          Don Norman: User-Centered Design framing; Design of Everyday Things.
+<br/> 1988                 Mark Weiser: Ubiquitous Computing.
+<br/> 1997                 Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”). 
 
 
 
