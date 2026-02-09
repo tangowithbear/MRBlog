@@ -25,7 +25,7 @@ AR, XR, AR, VR
 <br/> 
 <br/> Intuitive: using or based on what one feels to be true even withoutconscious reasoning; instinctive.
 <br/> 
-<br/> 1945                         Vannevar Bush: MEMEX (hypertext-like ideas). 
+<br/> 1945                 Vannevar Bush: MEMEX (hypertext-like ideas). 
 <br/> 1963 / 1968          Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
 <br/> 1963 / 1965 / 1968   Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
 <br/> 1972                 Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
@@ -34,7 +34,18 @@ AR, XR, AR, VR
 <br/> 1988                 Mark Weiser: Ubiquitous Computing.
 <br/> 1997                 Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”). 
 
-
+1945        Vannevar Bush
+1963/1968   Ivan Sutherland
+1968        Douglas Engelbart
+1972        Alan Kay
+1983        Stuart Card
+1986/1988   Don Norman
+1988        Mark Weiser
+1997        Hiroshi Ishii
+1962        Morton Heilig
+1984        Jaron Lanier
+1992        Carolina Cruz-Neira
+2012        Palmer Luckey
 
 # ::::::::::::::::::::::::  LAB 2 UNITY INSTALLATION  ::::::::::::::::::::::::
 
