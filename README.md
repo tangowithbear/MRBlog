@@ -464,6 +464,37 @@ Idea Presentation
 
 <br/>
 
+The idea is simple:
+
+<br/> 1. Hold the right index trigger → aim the movement direction with the right controller.
+<br/> 2. Release it → the direction freezes.
+<br/> 3. Use the left thumbstick Y → control acceleration, so speed goes up/down over time.
+<br/> 4. Move the player in that direction (or the opposite if the accelaration is neative)
+<br/> 5. Visualize speed and vector
+<br/>
+<br/> 1 Problem: At first, the direction update was inconsistent. The controller forward vector was correct, 
+<br/> but it didn’t match the world direction.
+<br/> 
+<br/> 1 Solution We made sure the controller forward is converted properly into world space using the rig’s 
+<br/> TrackingSpace: get controller rotation in local tracking space. Convert the forward vector to world.
+<br/>
+<br/> 2 Problem: Speed number appeared not correct. Actual movement felt the same no matter what maxSpeed was.
+<br/> 2 Solution: We realized we were moving the wrong thing. So instead of moving transform.position, 
+<br/> we moved the rig root, which lead us to the =>
+<br/>
+<br/> 3 Problem: After switching to moving the rig root, the movement suddenly felt like it had no cap.
+<br/> 3 Solution: We added a debug display: what we think speed is and (cmd) how fast it actually moved (real)
+<br/> We used the real speed check and also learned to search the scene for duplicate locomotion scripts.
+<br/> Once only one script was moving the rig, the limit behaved normally again.
+<br/>
+<br/> 4 Problem: Tha text appearnce was no as we planned: wrong TextMesh material, mirrored text, font size, etc..
+<br/> 4 Solution: We stopped doing “LookAt every frame” and used a local rotation, chaned material, font
+<br/>
+<br/> 5 Problem: teleport arc/pointer from Oculus locomotion (in pink)
+<br/> 5 Solution: We disabled the teleport/aim handler components that draw arcs
+
+
+
 Final Presentation
 <div style="position:relative;padding-top:56.25%;">
   <iframe
