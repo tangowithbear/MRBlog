@@ -26,18 +26,18 @@ AR, XR, AR, VR
 <br/> 
 <br/> Intuitive: using or based on what one feels to be true even withoutconscious reasoning; instinctive.
 <br/> 
-<br/> 1945 Vannevar Bush: MEMEX (hypertext-like ideas). 
+<br/> 1945 ________________Vannevar Bush: MEMEX (hypertext-like ideas). 
 <br/> 1963 / 1968__________Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
 <br/> 1963 / 1965 / 1968___Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
-<br/> 1972_________________Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
-<br/> 1983_________________Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
-<br/> 1986 / 1988__________Don Norman: User-Centered Design framing; Design of Everyday Things.
-<br/> 1988_________________Mark Weiser: Ubiquitous Computing.
-<br/> 1997_________________Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”).
-<br/> 1962_________________Morton Heilig: Sensorama (multi-sensory theater: stereo visuals, sound, wind, vibration, smell)
-<br/> 1984_________________Jaron Lanier: VPL Research (headsets/gloves) credited with coining term Virtual Reality
-<br/> 1992_________________Carolina Cruz-Neira: CAVE
-<br/> 2012_________________Palmer Luckey: Oculus Rift, John Carmack joined as CTO and shaped technical direction
+<br/> 1972 ________________Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
+<br/> 1983 ________________Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
+<br/> 1986 / 1988 _________Don Norman: User-Centered Design framing; Design of Everyday Things.
+<br/> 1988 ________________Mark Weiser: Ubiquitous Computing.
+<br/> 1997 ________________Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”).
+<br/> 1962 ________________Morton Heilig: Sensorama (multi-sensory theater: stereo visuals, sound, wind, vibration, smell)
+<br/> 1984 ________________Jaron Lanier: VPL Research (headsets/gloves) credited with coining term Virtual Reality
+<br/> 1992 ________________Carolina Cruz-Neira: CAVE
+<br/> 2012 ________________Palmer Luckey: Oculus Rift, John Carmack joined as CTO and shaped technical direction
 
 
 <br/>  VR is next step : PC → mobile → ubiquitous/immersive
