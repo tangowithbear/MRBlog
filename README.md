@@ -26,7 +26,7 @@ AR, XR, AR, VR
 <br/> 
 <br/> Intuitive: using or based on what one feels to be true even withoutconscious reasoning; instinctive.
 <br/> 
-<br/> 1945_________________Vannevar Bush: MEMEX (hypertext-like ideas). 
+<br/> 1945 Vannevar Bush: MEMEX (hypertext-like ideas). 
 <br/> 1963 / 1968__________Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
 <br/> 1963 / 1965 / 1968___Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
 <br/> 1972_________________Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
