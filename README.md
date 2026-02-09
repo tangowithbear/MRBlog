@@ -451,7 +451,7 @@ Figure 3.10.4: Restart demo
 
 <br/>
 
-# ::::::::::::::::::::::::::  LAB 5 LOCOMOTION TECHNIQUE  ::::::::::::::::::::::::::
+# :::::::::::::::::::::::::  LAB 5 LOCOMOTION TECHNIQUE  :::::::::::::::::::::::::
 
 Idea Presentation
 <div style="position:relative;padding-top:56.25%;">
