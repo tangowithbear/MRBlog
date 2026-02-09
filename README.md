@@ -33,7 +33,7 @@ AR, XR, AR, VR
 <br/> 1983_________________Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
 <br/> 1986 / 1988__________Don Norman: User-Centered Design framing; Design of Everyday Things.
 <br/> 1988_________________Mark Weiser: Ubiquitous Computing.
-<br/> 199._________________Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”).
+<br/> 1997_________________Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”).
 <br/> 1962_________________Morton Heilig: Sensorama (multi-sensory theater: stereo visuals, sound, wind, vibration, smell)
 <br/> 1984_________________Jaron Lanier: VPL Research (headsets/gloves) credited with coining term Virtual Reality
 <br/> 1992_________________Carolina Cruz-Neira: CAVE
