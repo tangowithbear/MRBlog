@@ -6,7 +6,8 @@ Hello this is our blog for the Mixed Reality course :)
 # ::::::::::::::::::  WEEK 1  INTRODUCTION AND HISTORY  ::::::::::::::::::::::
 18/11/2025
 <br/> 
-TECHNOLOGY CHANGES. HUMAN NOT.
+<br/> TECHNOLOGY CHANGES. HUMAN NOT.
+<br/> 
 <br/> Human-computer interaction is a disciplineconcerned with the design, evaluation andimplementation 
 <br/> of interactive computingsystems for human use and with the studyof major phenomena surrounding them.
 
