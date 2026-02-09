@@ -42,7 +42,9 @@ AR, XR, AR, VR
 <br/>  VR is next step : PC → mobile → ubiquitous/immersive
 <br/>  Stron focus on UX
 <br/> 
-# ::::::::::::::::::::::::::::  LAB 1 BLOG SETUP :::::::::::::::::::::::::::::
+# ::::::::::::::::::::::::::::   LAB 1 BLOG SETUP  :::::::::::::::::::::::::::::
+<br/> 
+THIS
 <br/> 
 
 # ::::::::::::::::::::::::  LAB 2 UNITY INSTALLATION  ::::::::::::::::::::::::
