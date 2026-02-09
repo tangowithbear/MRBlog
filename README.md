@@ -464,11 +464,10 @@ Idea Presentation
 
 <br/>
 
-The idea is simple:
-
-<br/> 1. Hold the right index trigger → aim the movement direction with the right controller.
-<br/> 2. Release it → the direction freezes.
-<br/> 3. Use the left thumbstick Y → control acceleration, so speed goes up/down over time.
+<br/> The idea was simple:
+<br/> 1. Hold the right index trigger to aim the movement direction with the right controller.
+<br/> 2. Release it the direction freezes.
+<br/> 3. Use the left thumbstick Y to control acceleration, so speed goes up/down over time.
 <br/> 4. Move the player in that direction (or the opposite if the accelaration is neative)
 <br/> 5. Visualize speed and vector
 <br/>
@@ -492,8 +491,7 @@ The idea is simple:
 <br/>
 <br/> 5 Problem: teleport arc/pointer from Oculus locomotion (in pink)
 <br/> 5 Solution: We disabled the teleport/aim handler components that draw arcs
-
-
+<br/>
 
 Final Presentation
 <div style="position:relative;padding-top:56.25%;">
