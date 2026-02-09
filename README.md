@@ -39,6 +39,7 @@ AR, XR, AR, VR
 <br/> 1992_________________Carolina Cruz-Neira: CAVE
 <br/> 2012_________________Palmer Luckey: Oculus Rift, John Carmack joined as CTO and shaped technical direction
 
+
 <br/>  VR is next step : PC → mobile → ubiquitous/immersive
 <br/>  Stron focus on UX
 <br/> 
