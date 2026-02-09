@@ -497,7 +497,7 @@ Final Presentation
 <div style="position:relative;padding-top:56.25%;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vSalGj1A8zIeug_diUBi9YCq93IngNM8SI05j-1CGngrsIxFitwwCQluSKJLp2ez6LMVRa5Ga7HvlO2/pubembed?start=false&loop=false&delayms=3000"
-    style="position:absolute;top:0;left:0;width:90%;height:90%;"
+    style="position:absolute;top:0;left:0;width:90%;height:100%;"
     frameborder="0"
     allowfullscreen></iframe>
 </div>
