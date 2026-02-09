@@ -47,7 +47,7 @@ AR, XR, AR, VR
 THIS
 <br/> 
 
-# :::::::::  WEEK 2  VR TECHNOLOGY AND PERCEPTION  :::::::::::
+# ::::::::  WEEK 2  VR TECHNOLOGY AND PERCEPTION  ::::::::::
 25/11/2025
 <br/> 
 
