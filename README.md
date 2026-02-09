@@ -3,6 +3,37 @@ MixedRealityBlog
 
 Hello this is our blog for the Mixed Reality course :)
 
+# ::::::::::::::::::  WEEK 1  INTRODUCTION AND HISTORY  ::::::::::::::::::::::
+18/11/2025
+<br/> TECHNOLOGY CHANGES. HUMAN NOT.
+
+<br/> Human-computer interaction is a disciplineconcerned with the design, evaluation andimplementation 
+<br/> of interactive computingsystems for human use and with the studyof major phenomena surrounding them.
+
+<br/> “Intuitive design” is a myth: there is no universal intuition; 
+<br/> What feels intuitive is often learned and context-dependent 
+<br/> Good design leverages real cognitive/perceptual abilities.
+<br/> 
+<br/> Reality: the world perceived through human senses without a technological mediator.
+<br/> 
+AR, XR, AR, VR
+
+• Computing Power is growing exponentially
+• Storage Capacity is growing exponentially
+• Computing technology is changing its shape and complexity
+• The human stays almost constant
+<br/> 
+<br/> Intuitive: using or based on what one feels to be true even withoutconscious reasoning; instinctive.
+<br/> 
+1945  Vannevar Bush: MEMEX (hypertext-like ideas). 
+1963 / 1968 Ivan Sutherland: Sketchpad ; Sword of Damocles (early tracked HMD).
+1963 / 1965 / 1968  Douglas Engelbart: mouse; “Mother of All Demos” (NLS: hypertext, collaborative systems). 
+1972  Alan Kay: Smalltalk / object orientation; Dynabook laptop. 
+1983  Stuart Card: The Psychology of Human-Computer Interaction, applying human factors.
+1986 / 1988  Don Norman: User-Centered Design framing; Design of Everyday Things.
+1988 Mark Weiser: Ubiquitous Computing.
+1997  Hiroshi Ishii: Tangible User Interfaces (“Tangible Bits / Radical Atoms”). 
+
 
 
 # ::::::::::::::::::::::::  LAB 2 UNITY INSTALLATION  ::::::::::::::::::::::::
@@ -462,9 +493,8 @@ Idea Presentation
     allowfullscreen></iframe>
 </div>
 
-<br/>
-
 <br/> The idea was simple:
+<br/>
 <br/> 1. Hold the right index trigger to aim the movement direction with the right controller.
 <br/> 2. Release it the direction freezes.
 <br/> 3. Use the left thumbstick Y to control acceleration, so speed goes up/down over time.
