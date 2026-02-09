@@ -445,7 +445,33 @@ Figure 3.10.4: Restart demo
     allowfullscreen></iframe>
 </div>
 
+<br/>
 
+# ::::::::::::::::::::::::  LAB 4 UNITY ROLL-A-BALL IN VR  ::::::::::::::::::::::::
 
+<br/>
 
+# ::::::::::::::::::::::::::  LAB 5 LOCOMOTION TECHNIQUE  ::::::::::::::::::::::::::
+
+Idea Presentation
+<div style="position:relative;padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQY3CyzyLxw8x0Vd3gvsZfmmsqBiKGpsKcpJcPJCg2TJY6LuLJmirgr2W_qVhekI_w89vyJ94VUwPaH/pubembed?start=false&loop=false&delayms=3000"
+    style="position:absolute;top:0;left:0;width:90%;height:90%;"
+    frameborder="0"
+    allowfullscreen></iframe>
+</div>
+
+<br/>
+
+Final Presentation
+<div style="position:relative;padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSalGj1A8zIeug_diUBi9YCq93IngNM8SI05j-1CGngrsIxFitwwCQluSKJLp2ez6LMVRa5Ga7HvlO2/pubembed?start=false&loop=false&delayms=3000"
+    style="position:absolute;top:0;left:0;width:90%;height:90%;"
+    frameborder="0"
+    allowfullscreen></iframe>
+</div>
+
+<br/>
 
