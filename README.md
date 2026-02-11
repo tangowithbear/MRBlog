@@ -498,6 +498,9 @@ Figure 3.10.4: Restart demo
 
 <br/>
 
+Note: The scene presented here is my own scene from the 1st lab (Fehmi), which is different from Marina's.
+
+<br/>
 STEP 1: META XR INSTALLATION
 
 <img width="800" height="450" alt="Meta XR Installation" src="https://github.com/user-attachments/assets/4ab29717-6516-4b60-967a-f0126b0ff703" />
