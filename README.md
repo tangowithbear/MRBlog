@@ -494,9 +494,86 @@ Figure 3.10.4: Restart demo
 
 <br/>
 
-# ::::::::::::::::::::::::  LAB 4 UNITY ROLL-A-BALL IN VR  ::::::::::::::::::::::::
+# ::::::::::::::::::::::::  LAB 4 UNITY ROLL-A-BALL IN VR  ::::::::::::::::::::::::
 
 <br/>
+
+STEP 1: META XR INSTALLATION
+
+<img width="800" height="450" alt="Meta XR Installation" src="https://github.com/user-attachments/assets/4ab29717-6516-4b60-967a-f0126b0ff703" />
+
+Figure 4.1: Installing the Meta XR SDK
+
+<br/>
+
+<img width="800" height="450" alt="Meta XR Webpage" src="https://github.com/user-attachments/assets/b6de2369-7e7d-4dd2-afa6-40a1479be3fe" />
+
+Figure 4.2: Configuring the project settings
+
+<br/>
+
+<img width="800" height="450" alt="Meta XR Loading" src="https://github.com/user-attachments/assets/49d2084c-9e9a-489e-92a9-61439c66526c" />
+
+Figure 4.3: Importing the packages
+
+<br/>
+
+STEP 2: CAMERA AND RIG SETUP
+
+<img width="800" height="450" alt="Camera Rig" src="https://github.com/user-attachments/assets/c708eda4-877b-40d1-8d3e-ed366b507852" />
+
+Figure 4.4: Setting up the OVR Camera Rig
+
+<br/>
+
+<img width="800" height="450" alt="Controller Implementation" src="https://github.com/user-attachments/assets/cd2bce1e-0163-4afe-91f2-bc7ad4e5087e" />
+
+Figure 4.5: Implementing the Controllers
+
+<br/>
+
+STEP 3: ENVIRONMENT AND PHYSICS
+
+<img width="800" height="450" alt="Creating Table" src="https://github.com/user-attachments/assets/1c9b7fd4-19a4-442d-b12e-18c0e908b3db" />
+
+Figure 4.6: Creating the table plane
+
+<br/>
+
+<img width="800" height="450" alt="Physics Settings" src="https://github.com/user-attachments/assets/f004f848-af5a-4621-9aa3-a04ead0ccc6b" />
+
+Figure 4.7: Adjusting physics settings
+
+<br/>
+
+STEP 4: SCRIPTING AND LOGIC
+
+<img width="800" height="450" alt="Select Script" src="https://github.com/user-attachments/assets/a772bd36-b5a0-4dba-b057-8b7018499ad9" />
+
+Figure 4.8: The Select Script logic
+
+<br/>
+
+STEP 5: TESTING AND RESULTS
+
+<img width="800" height="450" alt="Table vs Game" src="https://github.com/user-attachments/assets/d8d0cfd1-22f9-416f-b153-c54eebfeed02" />
+
+Figure 4.9: Scene view comparison
+
+<br/>
+
+<img width="800" height="450" alt="Game on Table" src="https://github.com/user-attachments/assets/8ee9353c-6c8f-484e-9fe9-3fa598c8de4e" />
+
+Figure 4.10: Bird's eye view of the game board
+
+<br/>
+
+<img width="800" height="450" alt="Passthrough View" src="https://github.com/user-attachments/assets/b3c57252-8829-4d82-a866-48ccfc9af195" />
+
+Figure 4.11: Final Result in Passthrough (Mixed Reality)
+
+<br/>
+
 
 # :::::::::::::::::::::::::  LAB 5 LOCOMOTION TECHNIQUE  :::::::::::::::::::::::::
 
